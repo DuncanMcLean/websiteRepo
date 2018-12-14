@@ -1,0 +1,1 @@
+document.getElementById('logo').innerHTML = "<img src="/images/lion.jpg">";
