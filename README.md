@@ -1,2 +1,0 @@
-# websiteRepo
-Struggling Scotsman code
