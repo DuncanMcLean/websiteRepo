@@ -3,14 +3,21 @@
   border-radius: 0;
 }
 
-#banner{
-  text-align: center;
-  padding-top: -50px;
-  padding-bottom: 50px;
+body{
+  background-color: #353535;
 }
 
-body{
-  background-color: #f2f2f2;
+h1{
+  color: white;
+}
+
+#header{
+  color: white;
+}
+
+#aboutBody{
+  font-size: 120%;
+  color: white;
 }
 
 /*fix this to fit the navbar */
