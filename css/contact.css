@@ -1,0 +1,37 @@
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+  
+body{
+    background-color: #353535;
+}
+  
+h1{
+    color: white;
+}
+  
+#header{
+    color: white;
+}
+  
+  /*fix this to fit the navbar */
+#logo{
+    max-height: 10%;
+    max-width: 10%;
+}
+   
+.jumbotron {
+    margin-bottom: 0;
+    background-image: url("/images/tartan.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+  
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: black;
+    padding: 25px;
+    color: white;
+}
