@@ -20,6 +20,10 @@ h1{
     max-height: 10%;
     max-width: 10%;
 }
+
+#ss{
+    font-family: 'Courier New', Courier, monospace;
+  }
    
 .jumbotron {
     margin-bottom: 0;
